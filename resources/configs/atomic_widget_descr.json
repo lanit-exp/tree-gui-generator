@@ -1,0 +1,84 @@
+[
+  {
+    "name": "Label",
+    "prob": 0.0,
+    "style": [
+      "default_label"
+    ]
+  },
+  {
+    "name": "Table",
+    "prob": 0.05,
+    "style": [
+      "default_table"
+    ]
+  },
+  {
+    "name": "List",
+    "prob": 0.02,
+    "style": [
+      "default_list"
+    ]
+  },
+  {
+    "name": "TextArea",
+    "prob": 0.02,
+    "style": [
+      "default_textarea"
+    ]
+  },
+  {
+    "name": "TreeView",
+    "prob": 0.02,
+    "style": [
+      "default_treeview"
+    ]
+  },
+  {
+    "name": "Button",
+    "prob": 0.4,
+    "style": [
+      "default_button"
+    ]
+  },
+  {
+    "name": "Text",
+    "prob": 0.0
+  },
+  {
+    "name": "ComboBox",
+    "prob": 0.0,
+    "style": [
+      "default_combobox"
+    ]
+  },
+  {
+    "name": "CheckableComboBox",
+    "prob": 0.0,
+    "style": [
+      "default_combobox"
+    ]
+  },
+  {
+    "name": "CheckableEdit",
+    "prob": 0.0,
+    "style": [
+      "default_combobox"
+    ]
+  },
+  {
+    "name": "Checkbox",
+    "prob": 0.0,
+    "style": [
+      "default_checkbox"
+    ]
+  },
+  {
+    "name": "Radio",
+    "prob": 0.0
+  },
+  {
+    "name": "ScrollBar",
+    "prob": 0.1
+  }
+]

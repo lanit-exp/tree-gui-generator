@@ -1,0 +1,46 @@
+[
+  {
+    "name": "LWindow",
+    "solo": true,
+    "prob": 0.1,
+    "direction": "v",
+    "nrows": 3,
+    "ncols": 3,
+    "children": [
+      "Div",
+      "Table",
+      "List",
+      "TextArea",
+      "TreeView"
+    ]
+  },
+  {
+    "name": "RWindow",
+    "solo": true,
+    "prob": 0.1,
+    "direction": "h",
+    "nrows": 3,
+    "children": [
+      "Div",
+      "Table",
+      "List",
+      "TextArea",
+      "TreeView"
+    ]
+  },
+  {
+    "name": "Div",
+    "prob": 0.1,
+    "direction": "v",
+    "ncols": 1,
+    "children": [
+      "DivItem",
+      "RevDivItem",
+      "TopDivItem",
+      "Button"
+    ],
+    "style": [
+      "default_formbox, group_box"
+    ]
+  }
+]

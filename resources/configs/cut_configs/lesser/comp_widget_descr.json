@@ -1,0 +1,107 @@
+[
+  {
+    "name": "DivItem",
+    "prob": 0.3,
+    "nrows": 1,
+    "ncols": 2,
+    "content": [
+      {
+        "name": "Label",
+        "style": [
+          "default_label"
+        ],
+        "group": 0,
+        "row": 0,
+        "row_span": 0,
+        "col": 0,
+        "col_span": 0
+      },
+      {
+        "name": "Text",
+        "style": [
+          "default_edit"
+        ],
+        "group": 1,
+        "prob": 0.16,
+        "row": 0,
+        "col": 1
+      },
+      {
+        "name": "Checkbox",
+        "style": [
+          "default_checkbox"
+        ],
+        "group": 1,
+        "prob": 0.16,
+        "row": 0,
+        "col": 1
+      },
+      {
+        "name": "Radio",
+        "style": [
+          "default_radio"
+        ],
+        "group": 1,
+        "prob": 0.16,
+        "row": 0,
+        "col": 1
+      }
+    ]
+  },
+  {
+    "name": "RevDivItem",
+    "prob": 0.15,
+    "nrows": 1,
+    "ncols": 2,
+    "content": [
+      {
+        "name": "Label",
+        "style": [
+          "default_label"
+        ],
+        "group": 0,
+        "row": 0,
+        "row_span": 0,
+        "col": 0,
+        "col_span": 0
+      },
+      {
+        "name": "Text",
+        "style": [
+          "default_edit"
+        ],
+        "group": 1,
+        "prob": 0.16,
+        "row": 0,
+        "row_span": 0,
+        "col": 1,
+        "col_span": 0
+      },
+      {
+        "name": "Checkbox",
+        "style": [
+          "default_checkbox"
+        ],
+        "group": 1,
+        "prob": 0.16,
+        "row": 0,
+        "row_span": 1,
+        "col": 1,
+        "col_span": 1
+      },
+      {
+        "name": "Radio",
+        "style": [
+          "default_radio"
+        ],
+        "group": 1,
+        "prob": 0.16,
+        "row": 0,
+        "row_span": 1,
+        "col": 1,
+        "col_span": 1
+      }
+    ]
+  }
+]
+

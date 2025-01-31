@@ -1,0 +1,30 @@
+[
+  {
+    "name": "labelstyle",
+    "widget": "Label",
+    "props": {
+      "key": "value"
+    }
+  },
+  {
+    "name": "labelstyle1",
+    "widget": "Label",
+    "props": {
+      "key": "value"
+    }
+  },
+  {
+    "name": "labelstyle2",
+    "widget": "Label",
+    "props": {
+      "key": "value"
+    }
+  },
+  {
+    "name": "editstyle",
+    "widget": "Edit",
+    "props": {
+      "key": "value"
+    }
+  }
+]

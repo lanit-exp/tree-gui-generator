@@ -1,0 +1,24 @@
+[
+  {
+    "name": "LWindow",
+    "solo": true,
+    "prob": 0.1,
+    "direction": "v",
+    "nrows": 3,
+    "ncols": 3,
+    "children": [
+      "Div"
+    ]
+  },
+  {
+    "name": "Div",
+    "prob": 0.1,
+    "direction": "v",
+    "ncols": 1,
+    "children": [
+      "DivItem",
+      "RevDivItem",
+      "Button"
+    ]
+  }
+]

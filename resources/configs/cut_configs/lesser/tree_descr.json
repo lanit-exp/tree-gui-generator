@@ -1,0 +1,5 @@
+{
+  "root": "LWindow",
+  "min_nwidgets": 10,
+  "max_nwidgets": 35
+}
